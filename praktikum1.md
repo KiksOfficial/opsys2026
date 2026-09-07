@@ -1,7 +1,7 @@
 #Praktikum 1 aruanne
 --------------------
 
-Tegu oli operatsioonisüsteemide esimese praktikumiga, kus paigaldasin Windows 11 os UTM virtuaalmasinasse. Windowsi paigaldamiseks kulus umbes 1h, lisaks veel <30 min dokumentatsiooni koostamiseks. Windowsi os paigaldades järgisin [juhendit](https://courses.cs.ut.ee/2026/os/fall/Main/Praktikum1).
+Tegu oli operatsioonisüsteemide esimese praktikumiga, kus paigaldasin Windows 11 os UTM virtuaalmasinasse. Windowsi paigaldamiseks kulus umbes 1h, lisaks veel <30 min dokumentatsiooni koostamiseks. Windowsi os paigaldades järgisin [juhendit](https://courses.cs.ut.ee/2026/os/fall/Main/Praktikum1). Pilt 1 näitab üldist infot antud virtuaalmasina kohta. Pilt 2 näitab, et virtuaalmasinale on lisatud mitu keelt. Pilt 3 näitab, et os Win 11 on aktiveeritud. 
 
 
 Pilt 1

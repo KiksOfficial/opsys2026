@@ -3,7 +3,7 @@
 <img width="1440" height="826" alt="Screenshot 2026-09-28 at 19 01 16" src="https://github.com/user-attachments/assets/c659963b-c948-46b2-ae0b-323c85a9b1b4" />
 
 Ülesanne 2
-<img width="1440" height="814" alt="Screenshot 2026-10-01 at 17 08 03" src="https://github.com/user-attachments/assets/b448beb8-9a6a-446a-ae12-fb365e49880e" />
+<img width="1024" height="580" alt="virusfailed" src="https://github.com/user-attachments/assets/2fb38d3a-11ee-4b49-98ff-632f21a7ea78" />
 
 
 Ülesanne 3

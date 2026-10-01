@@ -27,3 +27,15 @@ töötaja2
 <img width="634" height="406" alt="Screenshot 2026-09-28 at 19 20 35" src="https://github.com/user-attachments/assets/7c5f7247-7935-45c6-bae5-3dc8ac44fbf7" />
 
 Ülesanne 6
+Kirjuta praktikumiaruandesse üks soovitus (muudatus), mida Microsoft soovitab Windowsi turve - Turbeülevaade praktikumi virtuaalmasinas täiendavalt seadistada.
+
+Ülesanne 7
+<img width="1024" height="581" alt="eisaathonnyt" src="https://github.com/user-attachments/assets/9a149815-5d2f-473a-89ef-5753c364a389" />
+
+Ülesanne 8
+
+Ülesanne 9
+<img width="1024" height="596" alt="failedtolog" src="https://github.com/user-attachments/assets/0dc6d1b5-d869-4074-b338-fe3801179543" />
+
+Ülesanne 10
+<img width="561" height="222" alt="firstlogin" src="https://github.com/user-attachments/assets/22b73320-bc57-467f-8a15-e25490c8c125" />

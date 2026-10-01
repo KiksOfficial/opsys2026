@@ -10,7 +10,7 @@
 <img width="2556" height="1432" alt="Screenshot 2026-09-28 at 11 03 33" src="https://github.com/user-attachments/assets/29be2c15-42f7-49e4-a323-26ff34cf537b" />
 
 Ülesanne 4
-SeDebugPrivilege
+SeDebugPrivilege vajab SYSTEM privileege ning Administraator sellel ligi ei pääse
 
 Ülesanne 5
 
@@ -27,7 +27,7 @@ töötaja2
 <img width="634" height="406" alt="Screenshot 2026-09-28 at 19 20 35" src="https://github.com/user-attachments/assets/7c5f7247-7935-45c6-bae5-3dc8ac44fbf7" />
 
 Ülesanne 6
-Kirjuta praktikumiaruandesse üks soovitus (muudatus), mida Microsoft soovitab Windowsi turve - Turbeülevaade praktikumi virtuaalmasinas täiendavalt seadistada.
+Microsofti arvates peaksin Seadme turve (Device Security) alamseadistuse juures aktiveerima Core Isolation (Tuumaisolatsiooni) / Memory Integrity (Mäluterviklikkuse), et kaitsta arvutit pahatahtliku koodi ja draiverite eest.
 
 Ülesanne 7
 <img width="1024" height="581" alt="eisaathonnyt" src="https://github.com/user-attachments/assets/9a149815-5d2f-473a-89ef-5753c364a389" />

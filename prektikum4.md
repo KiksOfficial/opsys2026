@@ -38,4 +38,5 @@ Kirjuta praktikumiaruandesse üks soovitus (muudatus), mida Microsoft soovitab W
 <img width="1024" height="596" alt="failedtolog" src="https://github.com/user-attachments/assets/0dc6d1b5-d869-4074-b338-fe3801179543" />
 
 Ülesanne 10
+
 <img width="561" height="222" alt="firstlogin" src="https://github.com/user-attachments/assets/22b73320-bc57-467f-8a15-e25490c8c125" />

@@ -1,4 +1,7 @@
-Antud praktikumis tutvusin Windows 11 turvaseadmete, süsteemiõiguste, ja kasutajate haldamisega.
+# Windowsi seadistus ja turvalisus
+---
+
+Antud praktikumis tutvusin Windows 11 turvaseadmete, süsteemiõiguste, ja kasutajate haldamisega ning ka rakendasin erinevaid meetmeid, et teha oma Windows 11 virtuaalmasin turvalisemaks. Muutsin tavakasutajate õigusi programmide jooksutamise osas. Piirasin teiste kasutajate ligipääsu töötaja1 isiklikule kaustale. Tutvusin ka logifailidega ning rakendasin käsuregistrile oma reegli
 
 
 Ülesanne 1

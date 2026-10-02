@@ -33,6 +33,8 @@ Microsofti arvates peaksin Seadme turve (Device Security) alamseadistuse juures 
 <img width="1024" height="581" alt="eisaathonnyt" src="https://github.com/user-attachments/assets/9a149815-5d2f-473a-89ef-5753c364a389" />
 
 Ülesanne 8
+<img width="473" height="544" alt="Screenshot 2026-10-02 at 07 13 52" src="https://github.com/user-attachments/assets/4d856bff-f9a8-4a65-b230-81cdd71d2900" />
+
 
 Ülesanne 9
 <img width="1024" height="596" alt="failedtolog" src="https://github.com/user-attachments/assets/0dc6d1b5-d869-4074-b338-fe3801179543" />

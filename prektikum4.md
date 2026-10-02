@@ -12,6 +12,7 @@ Antud praktikumis tutvusin Windows 11 turvaseadmete, süsteemiõiguste, ja kasut
 <img width="2556" height="1432" alt="Screenshot 2026-09-28 at 11 03 33" src="https://github.com/user-attachments/assets/29be2c15-42f7-49e4-a323-26ff34cf537b" />
 
 Ülesanne 4
+
 SeDebugPrivilege vajab SYSTEM privileege ning Administraator sellel ligi ei pääse
 
 Ülesanne 5

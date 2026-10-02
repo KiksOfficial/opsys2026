@@ -30,7 +30,8 @@ töötaja2
 Microsofti arvates peaksin Seadme turve (Device Security) alamseadistuse juures aktiveerima Core Isolation (Tuumaisolatsiooni) / Memory Integrity (Mäluterviklikkuse), et kaitsta arvutit pahatahtliku koodi ja draiverite eest.
 
 Ülesanne 7
-<img width="1024" height="581" alt="eisaathonnyt" src="https://github.com/user-attachments/assets/9a149815-5d2f-473a-89ef-5753c364a389" />
+<img width="1440" height="899" alt="Screenshot 2026-10-02 at 17 35 35" src="https://github.com/user-attachments/assets/1b23b94e-2fbf-4586-8cf5-9d29d1632b69" />
+
 
 Ülesanne 8
 
@@ -39,7 +40,8 @@ Microsofti arvates peaksin Seadme turve (Device Security) alamseadistuse juures 
 
 Ülesanne 9
 
-<img width="1024" height="596" alt="failedtolog" src="https://github.com/user-attachments/assets/0dc6d1b5-d869-4074-b338-fe3801179543" />
+<img width="1440" height="900" alt="Screenshot 2026-10-02 at 17 39 51" src="https://github.com/user-attachments/assets/6f912dfd-ef8e-40df-a34a-5699e883a1cf" />
+
 
 Ülesanne 10
 

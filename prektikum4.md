@@ -1,3 +1,5 @@
+Antud praktikumis tutvusin Windows 11 turvaseadmete, süsteemiõiguste, ja kasutajate haldamisega.
+
 
 Ülesanne 1
 <img width="1440" height="826" alt="Screenshot 2026-09-28 at 19 01 16" src="https://github.com/user-attachments/assets/c659963b-c948-46b2-ae0b-323c85a9b1b4" />

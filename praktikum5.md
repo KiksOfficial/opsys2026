@@ -1,3 +1,7 @@
+# Praktikum 5 Protsessid ja signaalid
+---
+Selles praktikumis tutvusin protsesside haldamisega UNIX tüüpi operatsioonisüsteemis. Rakendasin käsku nagu jobs fg, bg ning õppisin, kuidas saata signaale nagu SIGCONT ja SIGHUP. Lisaks tutvusin Windows 11 aknasõnumitega.
+
 Ülesanne 1
 
 <img width="1440" height="900" alt="Screenshot 2026-10-06 at 18 06 50" src="https://github.com/user-attachments/assets/8f86107e-5a13-4c07-bd16-58fe7c704e40" />

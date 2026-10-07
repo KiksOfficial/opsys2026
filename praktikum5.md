@@ -23,6 +23,7 @@ ip a | grep "inet " | grep -v "127.0.0.1" | tr -s ' ' | cut -d ' ' -f3 | cut -d 
 Ülesanne 5
 
 15:08:47.628,273,"WM_COMMAND",33555650,132290
+
 WM_COMMAND - kasutaja valib käsuüksuse menüüst, kui kontroll saadab sõnumi oma vanemaknale või eriline kombinatsioon vajutatakse klaviatuuri peal (nt. Ctrl + C)
 
 wParam 33555650 - käsu või teavituskood ja kontrolli identikaator
@@ -32,6 +33,7 @@ lParam 132290 - Kontroll läks aknale
 (https://learn.microsoft.com/en-us/windows/win32/menurc/wm-command)
 
 15:08:20.419,131,"WM_NCCALCSIZE",1,7333964
+
 WM_NCCALCSIZE - sõnum saadetakse siis kui akna sisuosa arvutatakse, rakendus saab kontrollida akna sisu, kui akna suurus või asukoht muutub
 
 wParam 1 (True) - rakendus peaks tähistama, milline osa rakenduse sisust sisaldab kehtivat infot ning süsteem kopeerib selle kehtiva teabe uue sisuosa sees määratud piirkonda.

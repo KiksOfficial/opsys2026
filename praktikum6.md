@@ -1,15 +1,18 @@
 
 
 Ülesanne 1
+
 a. /tmp/kaust/minufail.txt lugemiseks on vaja minimaalselt 500 kaustale ja 400 failile
 b. /tmp/kaust/minufail.txt faili kustutamiseks on vaja minimaalselt 600 userile ja 700 kaustale
 
 Ülesanne 2.
+
 Miks antud käivitusõiguse andmine chmod a=x skriptifail ei ole piisav kesta/shelli-skripti (.sh) käivitamiseks? Selgita, millist õigust on lisaks vaja, et käivitada skriptifail?
-Vaja on rwx?
+Vaja on rx
 
 Ülesanne 3
---
+
+See hoiab ära olukorra, kus uued failid kuuluksid mingisse ühisesse üldgruppi (nt users), tehes need teistele süsteemi kasutajatele nähtavaks. Umask takistab teistel süsteemi kasutajatel neile automaatselt ligi pääseda
 
 Ülesanne 4
 

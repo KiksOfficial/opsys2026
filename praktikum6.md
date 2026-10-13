@@ -24,3 +24,39 @@ drwxrwxrwt 11 root  root       260 Oct 12 11:31 ..
 ----r--r--  1 user1 majasisene  27 Oct 12 11:32 uusfail.txt
 Paar lauset.
  Nats tektsti
+
+Ülesanne 5
+
+Setuid õigust on vaja selleks, et tavakasutaja saaks programmi käivitada faili omaniku õigustes (nt. parooli vahetamiseks /etc/passwd failis)
+
+<img width="424" height="157" alt="Screenshot 2026-10-13 at 17 29 19" src="https://github.com/user-attachments/assets/4a6ab742-c612-43cb-a9ed-b5d2d597f814" />
+
+Ülesanne 6
+
+Pigem tõstab see turvalisust, sest kasutajatele ei pea andma laiu root-õigusi igapäevasteks tegevusteks, kuid samas see vähendab turvalisust hetkel, kui konkreetse programmi kood on vigane (nt. bufferoverflow).
+
+Ülesanne 7
+
+Peeter, opetaja, root, marcus
+
+Ülesanne 8
+
+-rw-rw----+ 1 opetaja opetaja   125 Oct 13 17:48 hinded.txt 
+Mida märkad käsutulemuses ls -la õigustes? - Õiguste rea lõpus olev + annab märku, et sellel failil on kasutusel ACL laiendatud õigused.
+
+# file: hinded.txt
+# owner: opetaja
+# group: opetaja
+user::rw-
+group::---
+group:direktor:rw-
+mask::rw-
+other::---
+
+Ülesanne 9
+
+Kes saab +i (immutable) atribuudiga faili sisu muuta (kirjutada)?
+Mitte keegi (read only)
+Milliste käskudega (ja millises järjekorras) on võimalik sellist faili siiski süsteemist kustutada?
+sudo chattr -i testfail-2
+sudo rm -f testfail-2

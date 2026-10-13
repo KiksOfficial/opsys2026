@@ -37,7 +37,9 @@ Pigem tõstab see turvalisust, sest kasutajatele ei pea andma laiu root-õigusi 
 
 Ülesanne 7
 
+
 Peeter, opetaja, root, marcus
+
 
 Ülesanne 8
 
@@ -59,6 +61,7 @@ group:direktor:rw-
 mask::rw-
 
 other::---
+
 
 Ülesanne 9
 

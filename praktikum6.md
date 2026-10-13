@@ -3,6 +3,7 @@
 Ülesanne 1
 
 a. /tmp/kaust/minufail.txt lugemiseks on vaja minimaalselt 500 kaustale ja 400 failile
+
 b. /tmp/kaust/minufail.txt faili kustutamiseks on vaja minimaalselt 600 userile ja 700 kaustale
 
 Ülesanne 2.

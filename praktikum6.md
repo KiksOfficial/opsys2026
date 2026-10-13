@@ -48,9 +48,13 @@ Mida märkad käsutulemuses ls -la õigustes? - Õiguste rea lõpus olev + annab
 '#' owner: opetaja
 '#' group: opetaja
 user::rw-
+
 group::---
+
 group:direktor:rw-
+
 mask::rw-
+
 other::---
 
 Ülesanne 9

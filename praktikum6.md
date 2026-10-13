@@ -44,9 +44,9 @@ Peeter, opetaja, root, marcus
 -rw-rw----+ 1 opetaja opetaja   125 Oct 13 17:48 hinded.txt 
 Mida märkad käsutulemuses ls -la õigustes? - Õiguste rea lõpus olev + annab märku, et sellel failil on kasutusel ACL laiendatud õigused.
 
-# file: hinded.txt
-# owner: opetaja
-# group: opetaja
+'#' file: hinded.txt
+'#' owner: opetaja
+'#' group: opetaja
 user::rw-
 group::---
 group:direktor:rw-

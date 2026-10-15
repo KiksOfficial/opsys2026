@@ -77,5 +77,4 @@ Kes saab +i (immutable) atribuudiga faili sisu muuta (kirjutada)?
 Mitte keegi (read only)
 Milliste käskudega (ja millises järjekorras) on võimalik sellist faili siiski süsteemist kustutada?
 
-sudo chattr -i testfail-2
-sudo rm -f testfail-2
+sudo chattr -i testfail-2 && sudo rm -f testfail-2

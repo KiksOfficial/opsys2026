@@ -6,7 +6,7 @@ Selles praktikumis tutvusin Linuxi failisüsteemi pääsuõigustega, määramasi
 
 a. /tmp/kaust/minufail.txt lugemiseks on vaja minimaalselt 500 kaustale ja 400 failile
 
-b. /tmp/kaust/minufail.txt faili kustutamiseks on vaja minimaalselt 600 userile ja 700 kaustale
+b. /tmp/kaust/minufail.txt Faili kustutamiseks on vaja minimaalselt 300 kaustale, kus fail asub.
 
 # Ülesanne 2.
 
@@ -45,7 +45,7 @@ Pigem tõstab see turvalisust, sest kasutajatele ei pea andma laiu root-õigusi 
 
 # Ülesanne 7
 
-Peeter, opetaja, root, marcus
+Peeter, opetaja, root
 
 
 # Ülesanne 8

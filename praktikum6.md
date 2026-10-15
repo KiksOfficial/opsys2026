@@ -1,4 +1,6 @@
-
+# Praktikum 6 Failiõigused Linuxis
+---
+Selles praktikumis tutvusin Linuxi failisüsteemi pääsuõigustega, määramasin ja haldasin failide ning kataloogide õigusi, omanikke ja täiendavaid atribuute.
 
 # Ülesanne 1
 

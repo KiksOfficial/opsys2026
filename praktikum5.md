@@ -6,7 +6,7 @@ Selles praktikumis tutvusin protsesside haldamisega UNIX tüüpi operatsioonisü
 
 <img width="1440" height="900" alt="Screenshot 2026-10-06 at 18 06 50" src="https://github.com/user-attachments/assets/8f86107e-5a13-4c07-bd16-58fe7c704e40" />
 
-€ Ülesanne 2
+# Ülesanne 2
 
 <img width="1440" height="806" alt="Screenshot 2026-10-06 at 18 21 03" src="https://github.com/user-attachments/assets/4accc5fb-d8d9-4902-a86e-0caca355851b" />
 <img width="1440" height="895" alt="Screenshot 2026-10-06 at 18 21 34" src="https://github.com/user-attachments/assets/ae61d48f-a9c1-45a6-a3a8-bb893526a0b6" />

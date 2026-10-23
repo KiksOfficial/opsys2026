@@ -24,3 +24,12 @@ https://kodu.ut.ee/~marcusariston/opsys/hdd.png
 
 # Ülesanne 5
 
+mount parameetrid -o -ro tähendavad, et mount käivitatakse täpsustavate valikutega, milleks praegu on ro ehk read only
+-t auto puhul tähendab -t failisysteemi tüüpi, auto selle taga tähendab, et mount proovib ise automaatselt tuvastada failisüsteemi tüüpi kasutades selleks libblkid library.
+
+# Ülesanne 6
+
+Ubuntu asendas auto parameetri ext4-ga
+
+# Ülesanne 7
+<img width="1440" height="900" alt="Screenshot 2026-10-23 at 10 35 10" src="https://github.com/user-attachments/assets/1d73d017-6771-4f75-b300-a8299881b5eb" />

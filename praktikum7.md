@@ -1,8 +1,9 @@
+# Praktikum 7
+---
+Selles praktikumis haakisin võrguketta nii Windows 11-le kui ka Ubuntule ning haldasin lokaalseid kõvakettaid mõlemas
+operatsioonisüsteemis. Lisaks haakisin Ubuntus manuaalselt välise andmekandja ja seadistasin selle püsiva haake süsteemi käivitumisel.
 
-
-
-
-# Ülesanne 1
+#  Ülesanne 1
 
 Uued andmekandjad vajavad lähtestamist, kuna neil puuduvad sageli vajalikud partitsioonitabelid ja ühilduvad failisüsteemid.
 Lähtestamise käigus luuakse andmekandjale uus loogiline struktuur, mis annab kasutajale täieliku kontrolli partitsioonide ja nende suuruse üle.
@@ -25,6 +26,7 @@ https://kodu.ut.ee/~marcusariston/opsys/hdd.png
 # Ülesanne 5
 
 mount parameetrid -o -ro tähendavad, et mount käivitatakse täpsustavate valikutega, milleks praegu on ro ehk read only
+
 -t auto puhul tähendab -t failisysteemi tüüpi, auto selle taga tähendab, et mount proovib ise automaatselt tuvastada failisüsteemi tüüpi kasutades selleks libblkid library.
 
 # Ülesanne 6

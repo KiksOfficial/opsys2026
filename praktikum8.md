@@ -21,3 +21,7 @@ UTM ei lasknud lisada 1.5GiB kettaid, seega lisasin 2GiB
 # Ülesanne 4
 
 <img width="1440" height="825" alt="Screenshot 2026-10-28 at 15 21 53" src="https://github.com/user-attachments/assets/49b9367e-15db-4d06-80b5-711706e0c3ab" />
+
+# Ülesanne 5
+
+<img width="828" height="616" alt="Screenshot 2026-10-28 at 15 40 10" src="https://github.com/user-attachments/assets/e4244f92-c011-4777-b19c-5e0c670bc945" />

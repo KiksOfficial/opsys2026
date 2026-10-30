@@ -1,6 +1,7 @@
 
-# Dubleerimine
-
+# Praktikum 8 RAID ja andmete varundamine
+---
+Lõin ning haldasin RAID 1 peegeldust nii linuxis kui ka Windows 11 operatsioonisüsteemis. Simuleerisin kõvaketta riket ning ka taastamist. Seadistasin Nexcloudi ja OneDrive pilvevarundust.
 
 
 # Ülesanne 1

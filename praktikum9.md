@@ -29,3 +29,7 @@ Võib määrata oleku disabled tavalistes koduarvutites, mis pole seotud domeeni
 # Ülesanne 7
 
 <img width="855" height="467" alt="Screenshot 2026-11-03 at 16 57 21" src="https://github.com/user-attachments/assets/800f2906-da4e-41bd-9c9c-0b8026c43889" />
+
+# Ülesann4 8
+
+<img width="695" height="315" alt="Screenshot 2026-11-03 at 18 37 11" src="https://github.com/user-attachments/assets/b6cb25b7-186b-46f1-a8f3-a3d1763edec4" />

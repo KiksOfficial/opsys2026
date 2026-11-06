@@ -2,6 +2,7 @@
 
 # Ülesanne 1
 PWD=/home/marcus
+Kausta vahetades muutub ka PWD selleks kaustaks, kus sees olen
 
 # Ülesanne 2
 <img width="2570" height="1440" alt="Screenshot 2026-11-02 at 10 50 47" src="https://github.com/user-attachments/assets/b22db058-d834-4933-8591-0fc77cfb9cbe" />

@@ -1,7 +1,10 @@
-
+# Praktikum 9 Teenused ja optimeerimine
+---
+Selles praktikumis haldasin keskkonna muutujaid, daemoneid, eemaldasin ebavajalikku tarkvara ning uuendasin Ubuntu versioonile 26.10
 
 # Ülesanne 1
 PWD=/home/marcus
+
 Kausta vahetades muutub ka PWD selleks kaustaks, kus sees olen
 
 # Ülesanne 2

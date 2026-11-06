@@ -10,12 +10,14 @@ Kausta vahetades muutub ka PWD selleks kaustaks, kus sees olen
 # Ülesanne 3
 <img width="2601" height="1440" alt="Screenshot 2026-11-02 at 11 10 17" src="https://github.com/user-attachments/assets/9dc6c31d-4b58-404b-af25-1b2422511a12" />
 
+Eemaldasin screenfetch, sest on paremaid ja ka kiiremaid alternatiive nagu fastfetch. Vabastatud kettamaht oli 272 kB, mis on küll vöhe, aga taolised programmid võivad kuhjuda ning võtta mitu MB kettaruumi.
+
 # Ülesanne 4
 <img width="2721" height="1440" alt="Screenshot 2026-11-02 at 11 22 44" src="https://github.com/user-attachments/assets/4815214c-adee-4592-a726-f33eb297408f" />
 
 # Ülesanne 5
 
-Käivitatakse fail, mis asub kasutaja %Path% kaustas.
+Kui Windows ei leia praeguses kaustas selle nimelist faili, siis käivitatakse fail, mis asub kasutaja %Path% loendis eespool olevas kaustas.
 
 # Ülesanne 6
 

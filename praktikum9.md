@@ -20,7 +20,7 @@ Eemaldasin screenfetch, sest on paremaid ja ka kiiremaid alternatiive nagu fastf
 
 # Ülesanne 5
 
-Kuna Windows otsib faili kõigepealt praegusest aktiivsest kaustast, käivitab ta nüüd uue ümbernimetatud programmi otse sellest kaustast
+Käivitatakse fail, mis asub %Path% loendis eespool olevas kaustas
 
 # Ülesanne 6
 

@@ -13,7 +13,7 @@
 |5  |   |DismHost.exe   |   |Process Explorer -> Start Time   |
 |6 |   |System Idle Process  94-95% |   |Process Explorer -> CPU Time   |
 |7   |   |   |   |   |
-|8  |   |Enim füüsilist mälu võtab explorer.exe   |   |   |
+|8  |   |Enim füüsilist mälu võtab MsMpEng |   |   |
 |9 |   |Füüsilisest mälust on hõivatud 2.6GB ehk 67% vaba on 1.4GB ehk 33%|   |Process Explorer -> System Information -> Physical Memory   |
 |10   |   |Põhikettal on 21.3GB ehk ~34% vaba ruumi   |   |File Explorer -> Kohalik ketas (C:)  |
 |11  |   |Enim andmemahtu hõivav kaust on Windows ja suurim fail on Pagefile.sys   |   |WizTree -> Size   |

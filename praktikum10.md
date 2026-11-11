@@ -19,10 +19,10 @@
 |11  |Enim andmemahtu hõivav kaust on /usr ja suurim fail on Swap.img|Enim andmemahtu hõivav kaust on Windows ja suurim fail on Pagefile.sys   | `sudo du -h --max-depth=1 / 2>/dev/null \| sort -hr && sudo find / -type f -exec du -h {} + 2>/dev/null \| sort -hr \| head -n3`  |WizTree -> Size   |
 |12   |`sha1sum /dev/zero \| sha1sum /dev/zero` puhul suur osa CPU ajast läheb us (user space) `sha1sum /dev/urandom \| sha1sum /dev/urandom` puhul laheb suur osa CPU ajast sy (system space). Kui mõlemad korraga käivad on id (idle), wa (I/O wait) ni (Nice?) ja praktiliselt 0 |   |   |   |
 |13.1 |   |Enim kirjutab salvestusseadmele System   |   |Resource Monitor -> Disk -> Write   |
-|13.2  |   |SLogFile   |   |Resource Monitor -> Disk Activity -> File   |
-|13.3  |  | svchost.exe   |   |   |
+|13.2  |   |SLogFile   |   |Resource Monitor -> Disk -> Disk Activity -> File   |
+|13.3  |  | svchost.exe   |   |Resource Monitor -> Disk -> Disk activity -> Read   |
 |13.4  |   |arm64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9711_none_3e07b80ee334e969\comctl32.dll   |   |Resource Monitor -> Disk -> Disk Activity -> Read|
-|14  |svchost.exe, kohalik IP: 192.168.64.5, kohalik port: 61125, teise poole IP: 72.154.7.97   |   |   |   |
+|14  |SystemSettings.exe, kohalik IP: 192.168.64.5, kohalik port: 61155, teise poole IP: 20.166.131.27 ja port: 443   |   |   |Resource Monitor -> Network ja TCP connections   |
 |15 |   |   |   |   |
 
 <img width="1026" height="588" alt="Screenshot 2026-11-11 at 16 31 59" src="https://github.com/user-attachments/assets/fe8fc59a-dbd0-4eb6-a9c1-198691e1c169" />

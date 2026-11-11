@@ -25,8 +25,7 @@
 |14  |svchost.exe, kohalik IP: 192.168.64.5, kohalik port: 61125, teise poole IP: 72.154.7.97   |   |   |   |
 |15 |   |   |   |   |
 
-<img width="1004" height="592" alt="Screenshot 2026-11-11 at 16 26 16" src="https://github.com/user-attachments/assets/cbb81703-bfab-4547-aa03-a152bc2e6a8c" />
-
+<img width="1026" height="588" alt="Screenshot 2026-11-11 at 16 31 59" src="https://github.com/user-attachments/assets/fe8fc59a-dbd0-4eb6-a9c1-198691e1c169" />
 
 
 <img width="1440" height="890" alt="Screenshot 2026-11-11 at 15 57 41" src="https://github.com/user-attachments/assets/77c3b15b-7a31-462e-94be-aac8adea493d" />

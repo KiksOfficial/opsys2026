@@ -25,3 +25,6 @@
 |14  |   |   |   |   |
 |15 |   |   |   |   |
 <img width="1069" height="729" alt="Screenshot 2026-11-10 at 17 56 12" src="https://github.com/user-attachments/assets/0e875e75-9301-47b8-af45-1df9c314509c" />
+
+
+<img width="1440" height="890" alt="Screenshot 2026-11-11 at 15 57 41" src="https://github.com/user-attachments/assets/77c3b15b-7a31-462e-94be-aac8adea493d" />

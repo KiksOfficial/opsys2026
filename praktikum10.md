@@ -16,7 +16,7 @@
 |8  |miriway-shell   |explorer.exe |   |htop -> RES   |
 |9 |Füüsilisest mälust on hüivatud 1.63GB  ehk ~49% vaba on 1.67GB ehk ~51%|Füüsilisest mälust on hõivatud 2.6GB ehk 67% vaba on 1.4GB ehk 33%| htop -> Mem|Process Explorer -> System Information -> Physical Memory   |
 |10   |7.3GB ehk ~31%   |Põhikettal on 21.3GB ehk ~34% vaba ruumi   |fastfetch -> Disk (/)   |File Explorer -> Kohalik ketas (C:)  |
-|11  |Enim andmemahtu hõivav kaust on /usr ja suurim fail on Swap.img|Enim andmemahtu hõivav kaust on Windows ja suurim fail on Pagefile.sys   | `sudo du -h --max-depth=1 / 2>/dev/null \| sort -hr ja sudo && find / -type f -exec du -h {} + 2>/dev/null \| sort -hr \| head -n3`  |WizTree -> Size   |
+|11  |Enim andmemahtu hõivav kaust on /usr ja suurim fail on Swap.img|Enim andmemahtu hõivav kaust on Windows ja suurim fail on Pagefile.sys   | `sudo du -h --max-depth=1 / 2>/dev/null \| sort -hr && sudo find / -type f -exec du -h {} + 2>/dev/null \| sort -hr \| head -n3`  |WizTree -> Size   |
 |12   |   |   |   |   |
 |13.1 |   |Enim kirjutab salvestusseadmele System   |   |Resource Monitor -> Disk -> Write   |
 |13.2  |   |SLogFile   |   |Resource Monitor -> Disk Activity -> File   |

@@ -20,7 +20,7 @@ Eemaldasin screenfetch, sest on paremaid ja ka kiiremaid alternatiive nagu fastf
 
 # Ülesanne 5
 
-Käivitatakse fail, mis asub %Path% loendis eespool olevas kaustas
+Käivitatakse süsteemi %Path% kaustas olev fail, sest Windows liidab süsteemi muutujad ettepoole ja kasutaja muutujad nende lõppu (eespool olev kaust on kõrgema prioriteediga)
 
 # Ülesanne 6
 

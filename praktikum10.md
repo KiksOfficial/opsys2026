@@ -5,7 +5,7 @@
 | Ülesanne | Linux | Windows | Linuxis kasutatud käsklus | Windowsis kasutatud tööriist ja väli |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | 217 | 150 | `ps aux \| wc -l` | Task Manager -> Jõudlus -> Protsessid |
-| 2 | /usr/lib/systemd/systemd | smss.exe | `ps aux -> Start | Process Explorer -> Start Time |
+| 2 | /usr/lib/systemd/systemd | smss.exe | ps aux -> Start | Process Explorer -> Start Time |
 | 3 | avahi, _chrony, colord, cups-br+, lp, marcus, message+, polkitd, root, rtkit, syslog, systemd+ | UMFD-0, UMFD-1, MarcusAriston, SYSTEM, DWM-1 | `ps aux \| awk '{print $1}' \| sort \| uniq` | Process Explorer -> User Name |
 | 4 | 14 min | 26 min | fastfetch -> Uptime | Tegumihaldur -> Jõudlus -> Tööaeg |
 | 5 | kworker/2:2-cgroup_free | DismHost.exe | ps aux -> start | Process Explorer -> Start Time |

@@ -21,7 +21,7 @@
 | 13.3 | – | svchost.exe | – | Resource Monitor -> Disk -> Disk Activity -> Read |
 | 13.4 | – | arm64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9711_none_3e07b80ee334e969\comctl32.dll | – | Resource Monitor -> Disk -> Disk Activity -> Read |
 | 14 | – | SystemSettings.exe, kohalik IP: 192.168.64.5, kohalik port: 61155, teise poole IP: 20.166.131.27, port: 443, võrguliikluse kogumaht on 369 B/sec  | – | Resource Monitor -> Network ja TCP connections |
-| 15 | Ubuntus kasutan käske top/htop (Load average > tuumade arv viitab ülekoormusele) ja ps konveierit (ps -eo pcpu,pmem,pid,user,args | sort -k 1 -r | head -n 10), et leida protsessid, mille CPU% või MEM% on >80–90%. Mälukasutuse ja saalimise kontrollimiseks vaatan free -h ja vmstat 1 (si/so aktiivne ketta saalimine, bi/bo kettakoormus). Ketta täitumist kontrollin käsuga df -h (Use% >95%). | – | top, htop, ps, free -h, vmstat 1, df -h | – |
+| 15 | Ubuntus kasutan käske top/htop (Load average > tuumade arv viitab ülekoormusele) ja ps (ps -eo pcpu,pmem,pid,user,args | sort -k 1 -r | head -n 10), et leida protsessid, mille CPU% või MEM% on >80–90%. Mälukasutuse ja saalimise kontrollimiseks vaatan free -h ja vmstat 1 (si/so aktiivne ketta saalimine, bi/bo kettakoormus). Ketta täitumist kontrollin käsuga df -h (Use% >95%). | – | top, htop, ps, free -h, vmstat 1, df -h | – |
 
 <img width="1026" height="588" alt="Screenshot 2026-11-11 at 16 31 59" src="https://github.com/user-attachments/assets/fe8fc59a-dbd0-4eb6-a9c1-198691e1c169" />
 
